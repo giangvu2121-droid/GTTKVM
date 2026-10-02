@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project:
+project:        "TEST"
   title:        "asiclab_adder"      # Project title
   author:       "asiclab"      # Your name
   discord:      ""      # Your discord username (optional)
